@@ -68,4 +68,7 @@
     section.input-section>div.copy-button{
         font-size: 1vh !important;
     }
+    section.output-section{
+        top: 0 !important;
+    }
 }
