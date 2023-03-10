@@ -19,6 +19,7 @@
 @media screen and (max-width: 500px){
     *{
         font-size: 3vw !important;
+        transition: 0.1s !important;
     }
     div.all-content-wrapper{
         flex-direction: column;
@@ -69,6 +70,6 @@
         font-size: 1vh !important;
     }
     section.output-section{
-        top: 0 !important;
+        top: 5vh !important;
     }
 }
