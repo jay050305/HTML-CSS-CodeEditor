@@ -76,7 +76,7 @@ change_layout_button.addEventListener('click', function () {
 
     setTimeout(() => {
       suggestion_box.style.display = 'none';
-    }, 3000);
+    }, 2000);
   }
   }
 
@@ -113,7 +113,7 @@ text_wrap_main.addEventListener('click', () => {
 
     setTimeout(() => {
       suggestion_box.style.display = 'none';
-    }, 3000);
+    }, 2000);
   }
   }
 })
@@ -263,7 +263,7 @@ document.querySelector('div.theme-toggler-wrapper').addEventListener('click', fu
 
     setTimeout(() => {
       suggestion_box.style.display = 'none';
-    }, 3000);
+    }, 2000);
   }
 
   }
@@ -307,7 +307,7 @@ copy_button[0].addEventListener('click', () => {
 
     setTimeout(() => {
       suggestion_box.style.display = 'none';
-    }, 3000);
+    }, 2000);
 })
 copy_button[1].addEventListener('click', () => {
 
@@ -326,7 +326,7 @@ copy_button[1].addEventListener('click', () => {
   
     setTimeout(() => {
       suggestion_box.style.display = 'none';
-    }, 3000);
+    }, 2000);
 })
 //end copy button
 

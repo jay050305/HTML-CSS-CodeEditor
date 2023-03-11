@@ -91,7 +91,7 @@ div.suggestion-loading-main div.suggestion-loading-bar {
     /* width: 10%; */
     background: var(--root-text-color);
     animation-name: loading_bar;
-    animation-duration: 3000ms;
+    animation-duration: 2000ms;
     animation-fill-mode: backwards;
 }
 @keyframes loading_bar{
